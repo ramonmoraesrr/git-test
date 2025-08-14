@@ -1,1 +1,1 @@
-Primeira frase no Git
+Segunda frase no Git
